@@ -19,3 +19,8 @@ Software Engineer | .NET Expert | Architect | Passionate about building scalable
 
 📫 Reach me at:
 - LinkedIn: [linkedin.com/in/jane-apr] (https://www.linkedin.com/in/jane-apr/)
+
+<!-- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneCodeLab&layout=compact&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaneCodeLab&show_icons=true&theme=tokyonight&count_private=true)
+-->
