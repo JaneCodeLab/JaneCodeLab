@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Jane
 
-<!--
 **JaneCodeLab/JaneCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Software Engineer | .NET Expert | Architect | Passionate about building scalable SaaS apps 🚀
