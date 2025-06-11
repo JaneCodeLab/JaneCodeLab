@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Jane
+## Hi there, I'm Jane
 
 Software Engineer | .NET Expert | Architect | Passionate about building scalable SaaS apps 🚀
 
-💼 With over 13 years of experience building scalable applications, I specialize in:
+With over 13 years of experience building scalable applications, I specialize in:
 - Architectures: Service-Oriented Architecture, Microservices Architecture, Clean and Onion Architecture.
 -	Concepts: Object-Oriented Programming, SOLID, SaaS Applications, Multi-Tenant Applications, MVC Pattern.
 - Backend: C#, .Net Framework/.Net Core, ASP.Net/ASP.Net Core, Rest API, Entity Framework/EF Core.
@@ -15,4 +15,4 @@ Software Engineer | .NET Expert | Architect | Passionate about building scalable
 - Analysis Tools: Microsoft Visio, Visual Paradigm, Miro, IBM Rational Rose.
 
 
-🛠️ I enjoy solving complex business problems and leading technical transformations. 
+I enjoy solving complex business problems and leading technical transformations. 
